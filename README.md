@@ -19,7 +19,7 @@ The module 'Infrastruture as a Code' covers the below subjects [1-8] and provide
 
 ## Screenshots
 PowerShell Exercises are contained in the Main Branch
-![My GitHub repo](https://github.com/L00186487/PowerShell/main/PSRepro.PNG "My GitHub repo")
+![My GitHub repo](https://github.com/L00186487/PowerShell/blob/main/PSRepro.PNG "My GitHub repo")
 
 ## Technologies/Tools Used 
 The technologies used to complete this assignment are:
